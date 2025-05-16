@@ -1,0 +1,19 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+env/
+venv/
+
+# Output files
+inventory_with_total_value.xlsx
+
+# IDE folders
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
